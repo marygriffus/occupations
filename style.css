@@ -1,0 +1,13 @@
+img {
+  width: 50%;
+  margin: 0 25% 0 25%;
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
